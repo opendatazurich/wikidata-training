@@ -3,4 +3,3 @@ jupyter==1.0.0
 pandas
 python-slugify
 requests
-git+https://gerrit.wikimedia.org/r/pywikibot/core.git@stable
